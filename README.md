@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c86c2563154543.5aa7c66ed2b1f.gif)
 
-<h1 align="center">Hi 👋, I'm Tushar Behera</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" height="40" style="max-width: 10%; display: inline-block;" data-target="animated-image.originalImage">, I'm Tushar Behera</h1>
 <h3 align="center">A passionate coder & developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
