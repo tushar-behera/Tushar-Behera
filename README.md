@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-behera&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-behera" /></p>
 
 - 🌱 I’m currently learning **Java Script & Go Lang**
-- 📫 How to reach me **https://www.linkedin.com/in/tushar-behera-574839171/**
+- 📫 How to reach me **https://www.linkedin.com/in/tusharbehera/**
 
 
 
