@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-behera&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-behera" /></p>
 
-- 🌱 I’m currently learning **Java Script & Go Lang**
+- 🌱 I’m currently Busy **Prepairing For Semester**
 - 📫 How to reach me **https://www.linkedin.com/in/tusharbehera/**
 
 
