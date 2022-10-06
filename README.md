@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-behera&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-behera" /></p>
 
-- 🌱 I’m currently PREPARING **UNIX OS , WEB TECHNOLOGY , SOFTWARE ENGINEERING , DATA MINING**
+- 🌱 I’m currently PREPARING : **UNIX OS , WEB TECHNOLOGY , SOFTWARE ENGINEERING , DATA MINING**
 - 📫 How to reach me **https://www.linkedin.com/in/tusharbehera/**
 
 
