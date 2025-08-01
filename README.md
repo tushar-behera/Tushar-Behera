@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-behera&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-behera" /></p>
 
-- 🌱 I’m currently Learning : **MERN STACK With Different Frameworks and Modules for Better Usser Experience **
+- 🌱 I’m currently Learning : **CLOUD PLATFORMS AND DEVOPS USING MULTIPLE TOOLS**
 - 📫 How to reach me **https://www.linkedin.com/in/tusharbehera/**
 
 
